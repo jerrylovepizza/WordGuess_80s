@@ -24,4 +24,4 @@
 * Letters Already Guessed: (Letters the user has guessed, displayed like L Z Y H).
 
 
-### After the user wins/loses the game should automatically choose another word and make the user play it.
+##### After the user wins/loses the game should automatically choose another word and make the user play it.
